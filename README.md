@@ -6,7 +6,9 @@ Este repositorio contiene certificados de cursos realizados por Aldo Silva Macha
 
 ## 🎓 Curso: Agile & Scrum for Beginners
 
-🔗 [Ver certificado](https://raw.githubusercontent.com/Aldosilva96/Certificados-Formacion/main/certificado.jpg)
+[![Certificado de Scrum](https://drive.google.com/uc?id=1nLfOxszR3hrlVARHoiUuw3olVIzgUszI)](https://drive.google.com/file/d/1nLfOxszR3hrlVARHoiUuw3olVIzgUszI/view)
+
+🔗 [Ver en Google Drive](https://drive.google.com/file/d/1nLfOxszR3hrlVARHoiUuw3olVIzgUszI/view)
 
 
 
